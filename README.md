@@ -21,6 +21,31 @@ Follow these steps to set up a modern React development environment with the lat
 
 ---
 
+## Prerequisites
+
+Before starting the installation, make sure you have the following:
+
+### ✅ **Node.js Installation**
+> **Required:** Node.js must be installed on your PC
+> - Download from: [nodejs.org](https://nodejs.org/)
+> - Recommended version: **Node.js 18+** or latest LTS
+
+### ✅ **Development Environment**
+> **Recommended:** Visual Studio Code IDE
+> - These commands work perfectly in **VS Code's integrated terminal**
+> - Download from: [code.visualstudio.com](https://code.visualstudio.com/)
+
+### ✅ **Verify Installation**
+Check if Node.js is installed by running:
+```bash
+node --version
+npm --version
+```
+
+> You should see version numbers for both Node.js and npm.
+
+---
+
 ## Installation Steps
 
 ### 1. Create Vite React Project
