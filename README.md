@@ -134,15 +134,7 @@ After completing the setup, your project structure will look like this:
 
 ---
 
-## Verification
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
-### Test Tailwind CSS
+## Test Tailwind CSS
 
 Add some Tailwind classes to your `src/App.jsx`:
 
@@ -180,11 +172,23 @@ export default App
 
 If you see a blue background with centered white text and a working button, Tailwind CSS 4.0 is properly configured!
 
+---
+
+## Verification
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
 ### Expected Result
 
 ![React App Running with Tailwind CSS 4.0](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup/blob/main/App%20Running.png?raw=true)
 
 > **This is what you should see** when your React app is running successfully with Tailwind CSS 4.0!
+
+---
 
 ---
 
@@ -204,6 +208,27 @@ If you see a blue background with centered white text and a working button, Tail
 |---------|-------------|
 | `npm run dev` | Start development server |
 | `npm run build` | Build for production |
+
+---
+
+## 🚀 Deploy to Netlify
+
+### Build for Production
+```bash
+npm run build
+```
+
+> **What this does:**
+> - Creates optimized production files in the `dist/` folder
+> - Minifies CSS and JavaScript for faster loading
+> - Prepares your app for deployment
+
+### Deploy to Netlify
+1. **Build your project** with `npm run build`
+2. **Drag and drop** the `dist/` folder to [Netlify Drop](https://app.netlify.com/drop)
+3. **Your website is live!** Netlify will provide you with a URL
+
+> **That's it!** Your React + Vite + Tailwind CSS 4.0 app is now hosted on Netlify.
 
 ---
 
