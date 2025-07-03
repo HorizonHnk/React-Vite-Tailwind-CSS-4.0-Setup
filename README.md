@@ -180,6 +180,12 @@ export default App
 
 If you see a blue background with centered white text and a working button, Tailwind CSS 4.0 is properly configured!
 
+### Expected Result
+
+![React App Running with Tailwind CSS 4.0](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup/blob/main/App%20Running.png?raw=true)
+
+> **This is what you should see** when your React app is running successfully with Tailwind CSS 4.0!
+
 ---
 
 ## What's Different in Tailwind CSS 4.0?
