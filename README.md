@@ -230,6 +230,12 @@ npm run build
 
 > **That's it!** Your React + Vite + Tailwind CSS 4.0 app is now hosted on Netlify.
 
+### 🌐 Live Demo
+
+**Vite + React:** [https://coruscating-cobbler-1a329c.netlify.app/](https://coruscating-cobbler-1a329c.netlify.app/)
+
+> **See it in action!** This is an example of the deployed React + Vite + Tailwind CSS 4.0 setup running live on Netlify.
+
 ---
 
 ## Conclusion
