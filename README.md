@@ -244,6 +244,12 @@ npm run build
 
 > **See it in action!** This is an example of the deployed React + Vite + Tailwind CSS 4.0 setup running live on Netlify.
 
+### 📚 Complete Website Guide
+
+**React JSX + Vite + Tailwind CSS 4.0 Complete Setup Guide:** [https://wondrous-gingersnap-9cc74c.netlify.app/](https://wondrous-gingersnap-9cc74c.netlify.app/)
+
+> **Comprehensive Documentation!** Full website with detailed explanations, visual examples, and complete setup walkthrough.
+
 ---
 
 ## Conclusion
@@ -279,6 +285,8 @@ You can now start building amazing React applications with the power of Tailwind
 ## 📞 Contact & Resources
 
 - **📦 GitHub Repository:** [React-Vite-Tailwind-CSS-4.0-Setup](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup.git)
+- **🌐 Complete Website Guide:** [React JSX + Vite + Tailwind CSS 4.0 Setup](https://wondrous-gingersnap-9cc74c.netlify.app/)
+- **🎯 Live Demo:** [Working Example](https://coruscating-cobbler-1a329c.netlify.app/)
 - **📧 Email:** hhnk3693@gmail.com  
 - **🎥 YouTube Channel:** [Tutorial Playlist](https://www.youtube.com/playlist?list=PLrZbkNpNVSwy9neLSBQ1QH14uL_EqNtj4)
 
