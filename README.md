@@ -13,6 +13,14 @@ Follow these steps to set up a modern React development environment with the lat
 
 ---
 
+## Architecture Overview
+
+![React + Vite + Tailwind CSS 4.0 Block Diagram](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup/blob/main/Block%20Diagram%20ReactJSX.png?raw=true)
+
+> **Visual representation** of how React, Vite, and Tailwind CSS 4.0 work together in this modern development stack.
+
+---
+
 ## Installation Steps
 
 ### 1. Create Vite React Project
